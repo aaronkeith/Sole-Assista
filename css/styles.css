@@ -13,13 +13,13 @@ body {
   background: radial-gradient(ellipse at center, #fff 1%, #fff 12%, #ebebeb 64%, #dbd8db 100%);
 }
 
-.main {
-  border: 6px dashed pink;
-  margin-top: 4%;
-  width: 80%;
+.header {
+  width: 30%;
+  margin-top: 3vh;
 }
 
-.header {
-  width: 40%;
-  margin-top: 3vh;
+#shoe {
+  border: 6px dashed pink;
+  margin-top: 4%;
+  max-width: 66%;
 }
