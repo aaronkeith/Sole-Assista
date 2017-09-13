@@ -15,10 +15,11 @@ body {
 
 .main {
   border: 6px dashed pink;
-  margin-top: 5vh;
+  margin-top: 4%;
+  width: 80%;
 }
 
 .header {
-  width: 30%;
+  width: 40%;
   margin-top: 3vh;
 }
