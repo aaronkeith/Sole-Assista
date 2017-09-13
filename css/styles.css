@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background: #fff;
+  background: -moz-radial-gradient(center, ellipse cover, #fff 1%, #fff 12%, #ebebeb 64%, #dbd8db 100%);
+  background: -webkit-gradient(radial, center center, 0, center center, 100%, color-stop(1%, #fff), color-stop(12%, #fff), color-stop(64%, #ebebeb), color-stop(100%, #dbd8db));
+  background: -webkit-radial-gradient(center, ellipse cover, #fff 1%, #fff 12%, #ebebeb 64%, #dbd8db 100%);
+  background: -o-radial-gradient(center, ellipse cover, #fff 1%, #fff 12%, #ebebeb 64%, #dbd8db 100%);
+  background: -ms-radial-gradient(center, ellipse cover, #fff 1%, #fff 12%, #ebebeb 64%, #dbd8db 100%);
+  background: radial-gradient(ellipse at center, #fff 1%, #fff 12%, #ebebeb 64%, #dbd8db 100%);
+}
+
+.header {
+  width: 30%;
+  margin-top: 3vh;
+}
+
+#shoe {
+  border: 6px dashed pink;
+  margin-top: 4%;
+  max-width: 66%;
+}
